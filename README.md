@@ -24,12 +24,12 @@
 
 # ⚙️ Tech Stack
 
-  - *Languages:* Python, SQL, R
-  - *Databases:* PostgreSQL, MySQL, Snowflake, Oracle, Apache Iceberg
-  - *Data Tools:* Power BI, Excel, Microsoft Fabric.
-  - *ETL & Big Data:* Apache Spark, Hadoop
-  - *Cloud:* Azure
-  - *Version Control:* Git, GitHub
+  - **Languages:** Python, SQL, R, Linux
+  - **Databases:** PostgreSQL, MySQL, Snowflake, Oracle, Apache Iceberg
+  - **Data Tools:** Power BI, Excel, Microsoft Fabric
+  - **ETL & Big Data:** Apache Spark, Hadoop
+  - **Cloud:** Azure
+  - **Version Control:** Git, GitHub
 
 # 🌱 Currently Learning
 

@@ -21,7 +21,7 @@
   
   - Based in Canada, originally from the Dominican Republic
 
- 📚 [Projects](https://github.com/EnmanuelMateo/Portafolio)
+ 📚 Projects
 
   Welcome to my portfolio, where I showcase my projects. [Click Here](https://github.com/EnmanuelMateo/Portafolio)
 

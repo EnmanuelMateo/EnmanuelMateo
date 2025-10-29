@@ -3,7 +3,8 @@
 
 
 
-👋 Hello, I'm Enmanuel — a Data Analyst and Data Engineer with expertise in data analysis, reporting, and data pipeline design.
+👋 Hello, I'm Enmanuel, a Data Analyst and Data Engineer with expertise in data analysis, reporting, and data pipeline design.
+
 
  - Querying and optimizing data using SQL and Snowflake.
 
@@ -14,6 +15,7 @@
  - Designing efficient data models and implementing ETL processes for analytics.
 
  - Using Excel for quick insights and business reporting.
+   
 
  # 📚 Projects
 

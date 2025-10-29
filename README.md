@@ -9,7 +9,7 @@
   🎯 Data Analyst & Data Engineer passionate about turning data into meaningful stories and efficient solutions.
   I enjoy working across the data lifecycle — from cleaning and modeling to building insightful dashboards and data pipelines.
 
-💼 About Me
+# 💼 About Me
 
   - Currently working as a Jr. Data Analyst an Data Engineer Freelancer
   
@@ -21,12 +21,12 @@
   
   - Based in Canada, originally from the Dominican Republic
 
- 📚 Projects
+ # 📚 Projects
 
   Welcome to my portfolio, where I showcase my projects. [Click Here](https://github.com/EnmanuelMateo/Portafolio)
 
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 
   Languages: Python, SQL, R
   Databases: PostgreSQL, MySQL, Snowflake, Oracle, Apache Iceberg
@@ -35,7 +35,7 @@
   Cloud: Azure
   Version Control: Git, GitHub
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 
   - Data warehouse architecture & optimization
   
@@ -43,7 +43,7 @@
   
   - Cloud data engineering (Azure Synapse, Snowflake advanced features)
 
-🤝 Looking to Collaborate On
+# 🤝 Looking to Collaborate On
 
   - Open-source data analytics projects
   
@@ -51,7 +51,7 @@
   
   - Data storytelling and visualization initiatives
 
-📫 How to Reach Me
+# 📫 How to Reach Me
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) :https://www.linkedin.com/in/enmanuelmateoanalyst/
   
@@ -64,7 +64,7 @@
   [![Portafolio](https://img.shields.io/badge/Portafolio-01A4FF?logo=warp&logoColor=fff)](#): https://enmanuelmateoperez5.wixsite.com/enmanuelportafolio
 
 
-⚡ Fun Fact
+# ⚡ Fun Fact
 
 When I’m not analyzing data, you’ll probably find me training calisthenics, making music, or learning/talking about Jesus Christ the source of my inspiration and purpose 🙏🎶💪
 

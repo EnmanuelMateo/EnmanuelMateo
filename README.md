@@ -27,7 +27,7 @@
   - **Languages:** Python, SQL, R, Linux
   - **Databases:** PostgreSQL, MySQL, Snowflake, Oracle, Apache Iceberg
   - **Data Tools:** Power BI, Excel, Microsoft Fabric
-  - **ETL & Big Data:** Apache Spark, Hadoop
+  - **ETL & Big Data:** Apache Spark, Docker
   - **Cloud:** Azure
   - **Version Control:** Git, GitHub
 

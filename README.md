@@ -21,6 +21,11 @@
   
   - Based in Canada, originally from the Dominican Republic
 
+ 📚 [Projects](https://github.com/EnmanuelMateo/Portafolio)
+
+  Welcome to my portfolio, where I showcase my projects. [Click Here](https://github.com/EnmanuelMateo/Portafolio)
+
+
 ⚙️ Tech Stack
 
   Languages: Python, SQL, R
@@ -29,14 +34,6 @@
   ETL & Big Data: Apache Spark, Hadoop
   Cloud: Azure
   Version Control: Git, GitHub
-
-🔭 Current Projects
-
-  - Building an end-to-end ETL pipeline in Snowflake using Python
-  
-  - Analyzing retail transactions to detect fraud and optimize sales strategy
-  
-  - Developing an interactive Power BI dashboard for business insights
 
 🌱 Currently Learning
 

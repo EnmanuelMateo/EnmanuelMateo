@@ -3,23 +3,17 @@
 
 
 
+👋 Hello, I'm Enmanuel — a Data Analyst and Data Engineer with expertise in data analysis, reporting, and data pipeline design.
 
-## 👋 Hi there, I'm Enmanuel Mateo
+ - Querying and optimizing data using SQL and Snowflake.
 
-  🎯 Data Analyst & Data Engineer passionate about turning data into meaningful stories and efficient solutions.
-  I enjoy working across the data lifecycle — from cleaning and modeling to building insightful dashboards and data pipelines.
+ - Building interactive dashboards and reports in Power BI and Tableau.
 
-# 💼 About Me
+ - Cleaning, transforming, and analyzing data with Python and Dbver.
 
-  - Currently working as a Jr. Data Analyst an Data Engineer Freelancer
-  
-  - Certified Microsoft Power BI Data Analyst Associate
-  
-  - Experienced with SQL, Python, Power BI, Kafka, Microsoft Fabric and more.
-  
-  - Passionate about data visualization, data engineering, and automation
-  
-  - Based in Canada, originally from the Dominican Republic
+ - Designing efficient data models and implementing ETL processes for analytics.
+
+ - Using Excel for quick insights and business reporting.
 
  # 📚 Projects
 

@@ -8,9 +8,9 @@
 
  - Querying and optimizing data using SQL and Snowflake.
 
- - Building interactive dashboards and reports in Power BI and Tableau.
+ - Building interactive dashboards and reports in Power BI.
 
- - Cleaning, transforming, and analyzing data with Python and Dbver.
+ - Cleaning, transforming, and analyzing data with Python and SQL.
 
  - Designing efficient data models and implementing ETL processes for analytics.
 

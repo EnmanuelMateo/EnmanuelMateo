@@ -57,8 +57,8 @@
   
   [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#): https://github.com/EnmanuelMateo/Portafolio
   
-  [![Portafolio](https://img.shields.io/badge/Portafolio-01A4FF?logo=warp&logoColor=fff)](#): https://enmanuelmateoperez5.wixsite.com/enmanuelportafolio
-
+  [![Portafolio](https://img.shields.io/badge/Portafolio-01A4FF?logo=warp&logoColor=fff)](#): https://enmanuelmateoperez5.wixsite.com/enmanuel-mateo
+ 
 
 # ⚡ Fun Fact
 

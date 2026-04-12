@@ -49,7 +49,7 @@
 
 # 📫 How to Reach Me
 
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) :https://www.linkedin.com/in/enmanuelmateoanalyst/
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) :https://www.linkedin.com/in/enmanuelmateo/
   
   [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#): https://www.upwork.com/freelancers/~0101b090331f557ace?mp_source=share
   

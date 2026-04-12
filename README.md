@@ -3,18 +3,30 @@
 
 
 
-👋 Hello, I'm Enmanuel, a Data Analyst and Data Engineer with expertise in data analysis, reporting, and data pipeline design.
+👋 Hi, I'm Enmanuel — a Data Scientist & ML Engineer who loves building the systems that make data actually useful.
 
+## What I work with
+- 🧠 **Machine Learning & AI** — building and deploying models that solve real problems
+- 🔧 **Data Engineering** — designing ETL/ELT pipelines, data models, and real-time streaming architectures
+- 📊 **Analytics & Visualization** — turning complex datasets into clear, actionable dashboards with Power BI
+- 🗄️ **Data Infrastructure** — working with PostgreSQL, Snowflake, Microsoft Fabric, Apache Kafka, and Docker
+- 🐍 **Python & SQL** — my daily drivers for cleaning, transforming, and analyzing data at scale
 
- - Querying and optimizing data using SQL and Snowflake.
+## A few things I've shipped
+- Processed **5M+ IoT sensor data points monthly** with 40% latency reduction
+- Cut SQL execution time **from 10 min to under 2 min**, saving 20+ hours/month
+- Cleaned and validated **100K+ mortgage records**, improving accuracy by 30%
+- Built and deployed a **Salesforce offline mobile app** end-to-end
 
- - Building interactive dashboards and reports in Power BI.
+## Certifications
+- 🏅 Microsoft Certified: Power BI Data Analyst Associate
+- 🏅 Microsoft Certified: Fabric Data Engineer Associate
+- 🏅 Microsoft Certified: Azure AI Fundamentals
 
- - Cleaning, transforming, and analyzing data with Python and SQL.
+## Currently
+Finishing my degree in IT: Business & Advanced Analytics at NBCC (graduating June 2026).
+Open to **Data Science**, **ML Engineering**, and **Data Engineering** roles — remote or hybrid across Canada.
 
- - Designing efficient data models and implementing ETL processes for analytics.
-
- - Using Excel for quick insights and business reporting.
    
 
  # 📚 Projects

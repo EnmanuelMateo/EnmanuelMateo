@@ -3,7 +3,9 @@
 
 
 
-👋 Hi, I'm Enmanuel, a Data Scientist & ML Engineer who loves building the systems that make data actually useful.
+👋 👋 Hi, I'm Enmanuel, a Data Scientist & ML Engineer passionate about transforming complex data into intelligent products and actionable business decisions.
+
+I specialize in machine learning, NLP, predictive analytics, and data engineering, building end-to-end solutions that turn raw data into measurable impact. From healthcare risk prediction and handwritten data extraction to large-scale IoT processing and real-time analytics, I enjoy solving problems where data, technology, and business intersect.
 
 ## What I work with
 - 🧠 **Machine Learning & AI**: building and deploying models that solve real problems
@@ -80,8 +82,6 @@ Open to **Data Science**, **ML Engineering**, and **Data Engineering** roles —
 # 🌱 Currently Learning
 
   - Data warehouse architecture & optimization
-  
-  - Machine Learning for business analytics
   
   - Cloud data engineering (Azure Synapse, Snowflake advanced features)
 

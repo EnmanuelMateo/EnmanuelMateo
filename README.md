@@ -6,11 +6,11 @@
 👋 Hi, I'm Enmanuel, a Data Scientist & ML Engineer who loves building the systems that make data actually useful.
 
 ## What I work with
-- 🧠 **Machine Learning & AI** — building and deploying models that solve real problems
-- 🔧 **Data Engineering** — designing ETL/ELT pipelines, data models, and real-time streaming architectures
-- 📊 **Analytics & Visualization** — turning complex datasets into clear, actionable dashboards with Power BI
-- 🗄️ **Data Infrastructure** — working with PostgreSQL, Snowflake, Microsoft Fabric, Apache Kafka, and Docker
-- 🐍 **Python & SQL** — my daily drivers for cleaning, transforming, and analyzing data at scale
+- 🧠 **Machine Learning & AI**: building and deploying models that solve real problems
+- 🔧 **Data Engineering**: designing ETL/ELT pipelines, data models, and real-time streaming architectures
+- 📊 **Analytics & Visualization**: turning complex datasets into clear, actionable dashboards with Power BI
+- 🗄️ **Data Infrastructure**: working with PostgreSQL, Snowflake, Microsoft Fabric, Apache Kafka, and Docker
+- 🐍 **Python & SQL**: my daily drivers for cleaning, transforming, and analyzing data at scale
 
 ## A few things I've shipped
 - Processed **5M+ IoT sensor data points monthly** with 40% latency reduction

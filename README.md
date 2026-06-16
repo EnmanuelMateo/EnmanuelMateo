@@ -87,11 +87,13 @@ Open to **Data Science**, **ML Engineering**, and **Data Engineering** roles —
 
 # 🤝 Looking to Collaborate On
 
-  - Open-source data analytics projects
-  
-  - Dashboard automation & reporting
-  
-  - Data storytelling and visualization initiatives
+* Machine Learning & AI solutions
+* Data Science research and applied analytics
+* NLP and Large Language Model (LLM) applications
+* Predictive modeling and recommendation systems
+* Data engineering and scalable ML pipelines
+* Open-source projects with real-world business impact
+
 
 # 📫 How to Reach Me
 

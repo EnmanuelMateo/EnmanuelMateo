@@ -15,8 +15,8 @@
 ## A few things I've shipped
 - Processed **5M+ IoT sensor data points monthly** with 40% latency reduction
 - Cut SQL execution time **from 10 min to under 2 min**, saving 20+ hours/month
-- Cleaned and validated **100K+ mortgage records**, improving accuracy by 30%
-- Built and deployed a **Salesforce offline mobile app** end-to-end
+- Developed an **NLP/OCR pipeline** that transformed handwritten phone records into structured data, expanding usable contact information from **3,000 to 17,000+ records**
+- Built a **machine learning framework** using **67K+ healthcare records** to predict healthcare access risk across Canada and generate actionable policy recommendations
 
 ## Certifications
 - 🏅 Microsoft Certified: Power BI Data Analyst Associate

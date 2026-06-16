@@ -3,7 +3,7 @@
 
 
 
-👋 Hi, I'm Enmanuel — a Data Scientist & ML Engineer who loves building the systems that make data actually useful.
+👋 Hi, I'm Enmanuel, a Data Scientist & ML Engineer who loves building the systems that make data actually useful.
 
 ## What I work with
 - 🧠 **Machine Learning & AI** — building and deploying models that solve real problems

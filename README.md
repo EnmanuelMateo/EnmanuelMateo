@@ -36,12 +36,46 @@ Open to **Data Science**, **ML Engineering**, and **Data Engineering** roles —
 
 # ⚙️ Tech Stack
 
-  - **Languages:** Python, SQL, R, Linux
-  - **Databases:** PostgreSQL, MySQL, Snowflake, Oracle, Apache Iceberg
-  - **Data Tools:** Power BI, Excel, Microsoft Fabric
-  - **ETL & Big Data:** Apache Spark, Docker
-  - **Cloud:** Azure
-  - **Version Control:** Git, GitHub
+### Data Science & Machine Learning
+
+* Python
+* Scikit-Learn
+* LightGBM
+* Optuna
+* NLP
+* OCR
+* Statistical Analysis
+* Feature Engineering
+* Predictive Modeling
+* Model Evaluation
+* CRISP-DM
+
+### Data Engineering & Databases
+
+* SQL
+* PostgreSQL
+* Snowflake
+* Microsoft Fabric
+* Apache Kafka
+* Apache Spark
+* Docker
+* ETL/ELT Pipelines
+* Data Modeling
+
+### Analytics & Visualization
+
+* Power BI
+* Excel
+* Data Storytelling
+* Dashboard Development
+
+### Cloud & MLOps
+
+* Azure
+* Git
+* GitHub
+* ML Deployment
+
 
 # 🌱 Currently Learning
 
